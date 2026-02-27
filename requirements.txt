@@ -1,0 +1,6 @@
+discum
+colorama
+python-dateutil
+flask
+gunicorn
+requests
